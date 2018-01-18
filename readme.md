@@ -35,10 +35,12 @@ Server: https://graphql-pokemon.now.sh/
 
 ### Submission:
 
-1. Fork the repository https://github.com/style-atlas/graphql-pokemon
-2. Create one or more pull requests which...
-3. Represent the changes you'd like us to review, then...
-3. Submit the pull request to https://github.com/style-atlas/graphql-pokemon
+To submit the challenge, you must send us a diff of the code you've written. Preferably as a pull request:
+
+1. Either fork an existing repository, or create a new one...
+2. Make a branch where you will perform your work...
+3. Create a pull request from that branch back to master...
+4. Email us a link to the pull request
 
 ### Examples / Ideas:
 
