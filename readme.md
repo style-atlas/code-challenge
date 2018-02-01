@@ -21,6 +21,8 @@ Try use some of our preferred tech:
   - [Material UI](material-ui-next.com)
 - [React Native](https://facebook.github.io/react-native/)
 - [Apollo](https://www.apollographql.com/)
+- [Jest](https://facebook.github.io/jest/)
+  - [Enzyme](http://airbnb.io/enzyme/)
 - [Observables (RXJS)](http://reactivex.io/rxjs/)
 - [Yarn](https://yarnpkg.com/en/)
 - [AWS](https://aws.amazon.com/)
@@ -39,8 +41,7 @@ To submit the challenge, you must send us a diff of the code you've written. Pre
 
 1. Either fork an existing repository, or create a new one...
 2. Make a branch where you will perform your work...
-3. Create a pull request from that branch back to master...
-4. Email us a link to the pull request
+3. Create a pull request from that branch back to either https://github.com/style-atlas/graphql-pokemon or send us an email with the diff
 
 ### Examples / Ideas:
 
