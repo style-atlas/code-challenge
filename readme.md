@@ -9,23 +9,38 @@
 
 1. Code legibility: Code should be simple to understand and read. Comments should be kept to a minimum, the code should explain itself.
 2. Development practices: Concise commits. Use of branches.
+3. Problem solving ability
 
-### Bonus marks
+### The Style Atlas Stack
 
-Try use some of our preferred tech:
+Below is our tech stack. We'd recommend you use as much as possible to showcase your skills.
+
+##### Language / General
+
+- [Typescript](https://www.typescriptlang.org/)
+- [Observables (RXJS)](http://reactivex.io/rxjs/)
+- [Yarn](https://yarnpkg.com/en/)
+
+##### Front End
 
 - [ReactJS](https://reactjs.org)
-  - [Create React App](https://github.com/facebookincubator/create-react-app)
   - [Recompose](https://github.com/acdlite/recompose/)
   - [JSS](https://github.com/cssinjs/react-jss)
   - [Material UI](material-ui-next.com)
 - [React Native](https://facebook.github.io/react-native/)
 - [Apollo](https://www.apollographql.com/)
+
+##### Test Frameworks:
+
 - [Jest](https://facebook.github.io/jest/)
   - [Enzyme](http://airbnb.io/enzyme/)
-- [Observables (RXJS)](http://reactivex.io/rxjs/)
-- [Yarn](https://yarnpkg.com/en/)
+
+##### Infra
+
+- [Kubernetes](http://kubernetes.io/)
+- [Docker](https://www.docker.com/)
 - [AWS](https://aws.amazon.com/)
+- [CircleCI](https://circleci.com/)
 
 
 ## The Challenge
@@ -41,7 +56,11 @@ To submit the challenge, you must send us a diff of the code you've written. Pre
 
 1. Either fork an existing repository, or create a new one...
 2. Make a branch where you will perform your work...
-3. Create a pull request from that branch back to either https://github.com/style-atlas/graphql-pokemon or send us an email with the diff
+3. Email [jobs@styleatlas.co](mailto:jobs@styleatlas.co) with a link to the diff you would like us to review
+
+## Tools / Tips
+
+- To kickstart any front-end development, we'd recommend using [Create React App Typescript](https://github.com/wmonk/create-react-app-typescript)
 
 ### Examples / Ideas:
 
@@ -55,6 +74,6 @@ Stuck for ideas? Try one of these:
 6. Build Subscriptions into the API
 7. Write a script which streams pokemon to a CSV
 8. Write a script to automate deployment to a cloud provider
-9. Add Continuous integration into the app
+9. Setup continuous integration
 10. Write various unit tests
 11. Build UI for an evolution tree for each pokemon
